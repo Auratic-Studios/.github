@@ -1,6 +1,6 @@
 # Auratic Studios
 ### Making games that just don't make sense.
-![](logo.png)
+![](https://raw.githubusercontent.com/Auratic-Studios/.github/main/profile/logo.png)
 Hello, we are **Auratic Studios**.\
 Welcome to our GitHub profile, where we host the open-source software that is used in our games.
 
